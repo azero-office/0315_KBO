@@ -1,0 +1,22 @@
+.year{
+        display: flex;
+        justify-content: center;
+      }
+      .title{
+        display: flex;
+        justify-content: space-between;
+        align-self: center;
+      }
+
+      .imgKBO{
+        width: 40px;
+        height: 40px;
+      }
+
+      table{
+        width: 100%;
+      }
+
+      td, th{
+        text-align: center;
+      }
